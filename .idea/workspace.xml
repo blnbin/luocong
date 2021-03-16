@@ -2,36 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f7fba2a-df86-4164-97dc-ed406730501a" name="默认更改列表" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="1n387kwdFa2LkVidfuEsqj5LHEj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/毕业答辩/简衣" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="D:/program files/nodejs/node" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\软件电商3183-26-罗聪\消防网站\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\软件电商3183-26-罗聪\消防网站\img" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,10 +45,43 @@
       <option name="presentableId" value="Default" />
       <updated>1610607250268</updated>
       <workItem from="1610607254859" duration="4314000" />
+      <workItem from="1610612049138" duration="1763000" />
+      <workItem from="1610944200902" duration="67000" />
+      <workItem from="1610944337029" duration="156000" />
+      <workItem from="1610946413326" duration="17000" />
+      <workItem from="1611558096937" duration="2383000" />
+      <workItem from="1611568443696" duration="1749000" />
+      <workItem from="1611717810759" duration="1353000" />
+      <workItem from="1611834135766" duration="2000" />
+      <workItem from="1612525878043" duration="137000" />
+      <workItem from="1615208375254" duration="3000" />
+      <workItem from="1615449952503" duration="1800000" />
+      <workItem from="1615452043084" duration="1797000" />
+      <workItem from="1615454053164" duration="1149000" />
+      <workItem from="1615595133219" duration="976000" />
+      <workItem from="1615879529091" duration="1537000" />
+      <workItem from="1615887823310" duration="600000" />
+      <workItem from="1615894093844" duration="13000" />
+      <workItem from="1615894606411" duration="1796000" />
+      <workItem from="1615896671785" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="146" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615450816627">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="468" y="146" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1475.799@0.0.1475.799" timestamp="1615450816627" />
+    <state x="518" y="154" key="FileChooserDialogImpl" timestamp="1615454066093">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="518" y="154" key="FileChooserDialogImpl/0.0.1475.799@0.0.1475.799" timestamp="1615454066093" />
+    <state x="394" y="181" key="run.anything.popup" timestamp="1615450770971">
+      <screen x="0" y="0" width="1475" height="799" />
+    </state>
+    <state x="394" y="181" key="run.anything.popup/0.0.1475.799@0.0.1475.799" timestamp="1615450770971" />
   </component>
 </project>
